@@ -1,0 +1,1 @@
+export const getFormattedNumericDate = (date) => new Date(date).toLocaleDateString('en-US');

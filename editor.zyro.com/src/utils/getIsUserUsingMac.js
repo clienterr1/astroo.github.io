@@ -1,0 +1,1 @@
+export const getIsUserUsingMac = () => navigator.userAgent.toUpperCase().includes('MAC');

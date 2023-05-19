@@ -1,0 +1,1 @@
+export const isDesktopSafari = window.safari !== undefined;

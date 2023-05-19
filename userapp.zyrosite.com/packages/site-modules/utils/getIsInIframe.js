@@ -1,0 +1,1 @@
+export const getIsInIframe = () => window.self !== window.top;

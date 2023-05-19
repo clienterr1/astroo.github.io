@@ -1,0 +1,1 @@
+export const getColorType = (colorVariable) => (colorVariable === 'transparent' ? 'color' : 'background');
